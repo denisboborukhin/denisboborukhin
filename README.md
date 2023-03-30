@@ -32,7 +32,7 @@ This is my profile with education projects
    &mdash; queue implementation on a list and on two stacks
 4. [RISC-V interpretator](https://github.com/denisboborukhin/simulation_compilers/tree/main/RVinterpreter)
    &mdash; gets the binary code from the elf file and executes most RISC-V instructions
-5. [my language](https://github.com/denisboborukhin/Ilab-Huawei/tree/master/language)
+5. [language](https://github.com/denisboborukhin/Ilab-Huawei/tree/master/language)
    &mdash; my programming language, which runs on my own processor
 6. [akinator](https://github.com/denisboborukhin/Ilab-Huawei/tree/master/akenator)
    &mdash; my akinator based on binary tree 
