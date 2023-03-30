@@ -34,7 +34,9 @@ This is my profile with education projects
    &mdash; gets the binary code from the elf file and executes most RISC-V instructions
 5. [language](https://github.com/denisboborukhin/Ilab-Huawei/tree/master/language)
    &mdash; my programming language, which runs on my own processor
-6. [akinator](https://github.com/denisboborukhin/Ilab-Huawei/tree/master/akenator)
+6. [processor](https://github.com/denisboborukhin/Ilab-Huawei/tree/master/CPU)
+   &mdash; my virtual processor 
+7. [akinator](https://github.com/denisboborukhin/Ilab-Huawei/tree/master/akenator)
    &mdash; my akinator based on binary tree 
 </details>
 
