@@ -17,26 +17,13 @@ This is my profile with education projects
   * [![CMake](https://img.shields.io/badge/CMake%20-%23008FBA.svg?&style=for-the-badge&logo=cmake&logoColor=white)](https://cmake.org/)
   * [![ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
 <details open>
- <summary> 😇 <b>My Github Stats</b>: </summary>
+ <summary> <b>My Github Stats</b>: </summary>
 <br>
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=denisboborukhin&show_icons=true&theme=system&line_height=27">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=denisboborukhin&hide=css,java,html&theme=system">
 </p>
 </details>
-
-<!--
-**derzhavin3016/derzhavin3016** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 <!--
 **denisboborukhin/denisboborukhin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
