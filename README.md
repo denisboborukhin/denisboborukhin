@@ -20,7 +20,9 @@ This is my profile with education projects
   * [![ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
   * ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-- **Major projects**:
+<details open>
+ <summary> <b>**Major projects**</b>: </summary>
+<br>
 1. [teachable dictionary](https://github.com/denisboborukhin/vm-huawei/tree/main/teachable_dictionary)
    
    reading and correcting texts with the formation of a database of words
@@ -41,6 +43,8 @@ This is my profile with education projects
 7. [matrix](https://github.com/denisboborukhin/IlabCpp/tree/main/matrix)
 
    implementation of class representing matrix with partial and full pivoting
+
+</details>
 
 <details open>
  <summary> <b>My Github Stats</b>: </summary>
