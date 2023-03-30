@@ -25,7 +25,7 @@ This is my profile with education projects
 <br>
 
 1. [teachable dictionary](https://github.com/denisboborukhin/vm-huawei/tree/main/teachable_dictionary)
-   : reading and correcting texts with the formation of a database of words
+   &mdash; reading and correcting texts with the formation of a database of words
 2. [matrix](https://github.com/denisboborukhin/IlabCpp/tree/main/matrix)
    : implementation of class representing matrix with partial and full pivoting
 3. [2 queue implementation](https://github.com/denisboborukhin/vm-huawei/tree/main/queue)
