@@ -23,7 +23,7 @@ This is my profile with education projects
 <details open>
  <summary> <b>Major projects</b>: </summary>
 <br>
-<p align = "center">
+
 1. [teachable dictionary](https://github.com/denisboborukhin/vm-huawei/tree/main/teachable_dictionary)
    
    reading and correcting texts with the formation of a database of words
@@ -44,7 +44,6 @@ This is my profile with education projects
    my akinator based on binary tree 
 7. [differenciator](https://github.com/denisboborukhin/Ilab-Huawei/tree/master/differenciator)
 
-</p>
 </details>
 
 <details open>
