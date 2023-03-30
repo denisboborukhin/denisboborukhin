@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](https://komarev.com/ghpvc/?username=derzhavin3016&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=denisboborukhin&style=for-the-badge)
 
 My name is Denis, I'm 2-nd year student at MIPT (Moscow Institute of Physics and Technology). 
 
