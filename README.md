@@ -21,13 +21,13 @@ This is my profile with education projects
   * ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 - **Major projects**:
-  1. [teachable dictionary](https://github.com/denisboborukhin/vm-huawei/tree/main/teachable_dictionary)
-  2. [my language](https://github.com/denisboborukhin/Ilab-Huawei/tree/master/language)
-  3. [akinator](https://github.com/denisboborukhin/Ilab-Huawei/tree/master/akenator)
-  4. [differenciator](https://github.com/denisboborukhin/Ilab-Huawei/tree/master/differenciator)
-  5. [RISC-V interpretator](https://github.com/denisboborukhin/simulation_compilers/tree/main/RVinterpreter)
-  6. [2 queue implementation](https://github.com/denisboborukhin/vm-huawei/tree/main/queue)
-  7. [matrix](https://github.com/denisboborukhin/IlabCpp/tree/main/matrix)
+1. [teachable dictionary](https://github.com/denisboborukhin/vm-huawei/tree/main/teachable_dictionary)
+2. [my language](https://github.com/denisboborukhin/Ilab-Huawei/tree/master/language)
+3. [akinator](https://github.com/denisboborukhin/Ilab-Huawei/tree/master/akenator)
+4. [differenciator](https://github.com/denisboborukhin/Ilab-Huawei/tree/master/differenciator)
+5. [RISC-V interpretator](https://github.com/denisboborukhin/simulation_compilers/tree/main/RVinterpreter)
+6. [2 queue implementation](https://github.com/denisboborukhin/vm-huawei/tree/main/queue)
+7. [matrix](https://github.com/denisboborukhin/IlabCpp/tree/main/matrix)
 
 <details open>
  <summary> <b>My Github Stats</b>: </summary>
