@@ -20,7 +20,7 @@ This is my profile with education projects
   * [![ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
 
 - **Major projects**:
-  * [teachable dictionary](../blob/vm-huawei/teachable_dictionary)
+  * [teachable dictionary](https://github.com/denisboborukhin/vm-huawei/tree/main/teachable_dictionary)
 
 <details open>
  <summary> <b>My Github Stats</b>: </summary>
