@@ -21,8 +21,9 @@ This is my profile with education projects
   * ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 <details open>
- <summary> <b>**Major projects**</b>: </summary>
+ <summary> <b>Major projects</b>: </summary>
 <br>
+
 1. [teachable dictionary](https://github.com/denisboborukhin/vm-huawei/tree/main/teachable_dictionary)
    
    reading and correcting texts with the formation of a database of words
