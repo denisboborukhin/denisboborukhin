@@ -22,6 +22,7 @@ This is my profile with education projects
 
 - **Major projects**:
 1. [teachable dictionary](https://github.com/denisboborukhin/vm-huawei/tree/main/teachable_dictionary)
+reading and correcting texts with the formation of a database of words
 2. [my language](https://github.com/denisboborukhin/Ilab-Huawei/tree/master/language)
 3. [akinator](https://github.com/denisboborukhin/Ilab-Huawei/tree/master/akenator)
 4. [differenciator](https://github.com/denisboborukhin/Ilab-Huawei/tree/master/differenciator)
