@@ -7,18 +7,21 @@ I'm from Vologda, currently living in **Moscow, Russia**.
 This is my profile with education projects
 
 - **How to reach me**:
-
   * [![tg](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/giockko)
   * [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:boborukhin.diu@phystech.edu)
-- **Languages**:
 
+- **Languages**:
   * [![cpp](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://en.cppreference.com/w/cpp)
   * [![c](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://en.cppreference.com/w/c)
-- **Knowledge**:
 
+- **Knowledge**:
   * [![git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
   * [![CMake](https://img.shields.io/badge/CMake%20-%23008FBA.svg?&style=for-the-badge&logo=cmake&logoColor=white)](https://cmake.org/)
   * [![ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
+
+- **Major projects**:
+  * [teachable dictionary](../vm-huawei/teachable_dictionary)
+
 <details open>
  <summary> <b>My Github Stats</b>: </summary>
 <br>
