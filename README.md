@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-![](https://komarev.com/ghpvc/?username=denisboborukhin&style=for-the-badge)
-
 My name is Denis, I'm 2-nd year student at MIPT (Moscow Institute of Physics and Technology). 
 
 I'm from Vologda, currently living in **Moscow, Russia**.
@@ -9,9 +7,8 @@ I'm from Vologda, currently living in **Moscow, Russia**.
 This is my profile with education projects
 
 -  **How to reach me**:
-
   * [![tg](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/giockko)
-  * [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:boborukhin.diu@phystech.edu)
+  * [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](boborukhin.diu@phystech.edu)
 -  **Languages**:
   * [![cpp](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://en.cppreference.com/w/cpp)
   * [![c](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://en.cppreference.com/w/c)
