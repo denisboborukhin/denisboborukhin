@@ -36,8 +36,6 @@ This is my profile with education projects
    &mdash; my programming language, which runs on my own processor
 6. [akinator](https://github.com/denisboborukhin/Ilab-Huawei/tree/master/akenator)
    &mdash; my akinator based on binary tree 
-7. [differenciator](https://github.com/denisboborukhin/Ilab-Huawei/tree/master/differenciator)
-
 </details>
 
 <details open>
