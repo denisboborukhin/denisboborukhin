@@ -18,9 +18,16 @@ This is my profile with education projects
   * [![git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
   * [![CMake](https://img.shields.io/badge/CMake%20-%23008FBA.svg?&style=for-the-badge&logo=cmake&logoColor=white)](https://cmake.org/)
   * [![ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
+  * ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 - **Major projects**:
-  * [teachable dictionary](https://github.com/denisboborukhin/vm-huawei/tree/main/teachable_dictionary)
+  1. [teachable dictionary](https://github.com/denisboborukhin/vm-huawei/tree/main/teachable_dictionary)
+  2. [my language](https://github.com/denisboborukhin/Ilab-Huawei/tree/master/language)
+  3. [akinator](https://github.com/denisboborukhin/Ilab-Huawei/tree/master/akenator)
+  4. [differenciator](https://github.com/denisboborukhin/Ilab-Huawei/tree/master/differenciator)
+  5. [RISC-V interpretator](https://github.com/denisboborukhin/simulation_compilers/tree/main/RVinterpreter)
+  6. [2 queue implementation](https://github.com/denisboborukhin/vm-huawei/tree/main/queue)
+  7. [matrix](https://github.com/denisboborukhin/IlabCpp/tree/main/matrix)
 
 <details open>
  <summary> <b>My Github Stats</b>: </summary>
