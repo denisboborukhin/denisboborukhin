@@ -20,8 +20,8 @@ This is my profile with education projects
  <summary> 😇 <b>My Github Stats</b>: </summary>
 <br>
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=derzhavin3016&show_icons=true&theme=system&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=derzhavin3016&hide=css,java,html&theme=system">
+  <img src = "https://github-readme-stats.vercel.app/api?username=denisboborukhin&show_icons=true&theme=system&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=denisboborukhin&hide=css,java,html&theme=system">
 </p>
 </details>
 
