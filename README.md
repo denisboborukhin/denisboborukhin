@@ -25,11 +25,22 @@ This is my profile with education projects
    
    reading and correcting texts with the formation of a database of words
 2. [my language](https://github.com/denisboborukhin/Ilab-Huawei/tree/master/language)
+
+   my programming language, which runs on my own processor
 3. [akinator](https://github.com/denisboborukhin/Ilab-Huawei/tree/master/akenator)
+
+   my akinator based on binary tree 
 4. [differenciator](https://github.com/denisboborukhin/Ilab-Huawei/tree/master/differenciator)
+
 5. [RISC-V interpretator](https://github.com/denisboborukhin/simulation_compilers/tree/main/RVinterpreter)
+
+   gets the binary code from the elf file and executes most RISC-V instructions
 6. [2 queue implementation](https://github.com/denisboborukhin/vm-huawei/tree/main/queue)
+
+   queue implementation on a list and on two stacks
 7. [matrix](https://github.com/denisboborukhin/IlabCpp/tree/main/matrix)
+
+   implementation of class representing matrix with partial and full pivoting
 
 <details open>
  <summary> <b>My Github Stats</b>: </summary>
