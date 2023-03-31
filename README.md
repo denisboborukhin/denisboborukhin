@@ -38,7 +38,7 @@ This is my profile with education projects
 5. [language](https://github.com/denisboborukhin/Ilab-Huawei/tree/master/language)
    &mdash; my programming language, which runs on my own processor
 6. [processor](https://github.com/denisboborukhin/Ilab-Huawei/tree/master/CPU)
-   &mdash; my virtual processor 
+   &mdash; my virtual processor with four registers, stack and RAM
 7. [akinator](https://github.com/denisboborukhin/Ilab-Huawei/tree/master/akenator)
    &mdash; my akinator based on binary tree 
 </details>
