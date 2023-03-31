@@ -3,6 +3,8 @@
 My name is Denis, I'm 2-nd year student at MIPT (Moscow Institute of Physics and Technology). 
 
 I'm from Vologda, currently living in **Moscow, Russia**.
+You can see my CV [here](https://drive.google.com/file/d/1uPV05pUpNRCDl4e9iUagZ8wHEpUAcUV9/view?usp=share_link)
+
 
 This is my profile with education projects
 
