@@ -30,7 +30,7 @@ This is my profile with education projects
 1. [teachable dictionary](https://github.com/denisboborukhin/vm-huawei/tree/main/teachable_dictionary)
    &mdash; reading and correcting texts with the formation of a database of words
 2. [matrix](https://github.com/denisboborukhin/IlabCpp/tree/main/matrix)
-   &mdash; implementation of class representing matrix with partial and full pivoting
+   &mdash; implementation of class representing matrix, calculating determinant with partial and full pivoting
 3. [2 queue implementation](https://github.com/denisboborukhin/vm-huawei/tree/main/queue)
    &mdash; queue implementation on a list and on two stacks
 4. [RISC-V interpretator](https://github.com/denisboborukhin/simulation_compilers/tree/main/RVinterpreter)
