@@ -3,7 +3,7 @@
 My name is Denis, I'm a student at MIPT (Moscow Institute of Physics and Technology). 
 
 I'm currently living in **Moscow, Russia**.
-You can see my 📃 **CV [here](https://drive.google.com/file/d/1uPV05pUpNRCDl4e9iUagZ8wHEpUAcUV9/view?usp=share_link)**
+You can see my 📃 **CV [here](https://drive.google.com/file/d/13MGZG4V-4yl4aIjdHJDlW16HkDEFnirk/view?usp=sharing)**
 
 - **How to reach me**:
   * [![tg](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/dboborukhin)
