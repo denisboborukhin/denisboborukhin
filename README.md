@@ -2,11 +2,6 @@
 
 My name is Denis. I'm currently living in **Moscow, Russia**.
 
-During studies at MIPT, mastered many **additional courses**:
-* The use and application of the C++ language, system programming in C
-* Architecture of computing cores and memory subsystems of modern microprocessors
-* Simulators, compilers, application analysis
-
 - **How to reach me**:
   * [![tg](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/dboborukhin)
   * [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:denis.boborukhin@gmail.com)
